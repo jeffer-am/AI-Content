@@ -1,0 +1,7 @@
+Generate "{{tag_count}}" keywords for a e-commerce product.
+The keywords should be related to the product title, product subheadings and the short description of the product.
+
+Product Title: "{{title}}"
+Product Short Description: "{{excerpt}}"
+Product Subheadings:
+{{subheadings}}

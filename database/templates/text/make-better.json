@@ -1,0 +1,9 @@
+{
+  "slug": "make-better",
+  "name": "Make Better",
+  "category": "Text Rephrasing",
+  "type": "text",
+  "capabilities": ["modify"],
+  "description": "Make Better your text.",
+  "prompt": "Make better"
+}

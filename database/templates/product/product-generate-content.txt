@@ -1,0 +1,6 @@
+Write a SEO friendly e-commerce product description about "{{title}}".
+The product description is organized by the following headings:
+
+{{subheadings}}
+
+Write "{{paragraph_count}}" paragraphs per heading.

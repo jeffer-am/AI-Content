@@ -1,0 +1,9 @@
+{
+  "slug": "wc-product-generate-title",
+  "name": "Generate Product Name",
+  "category": "Woocommerce Product",
+  "type": "system",
+  "capabilities": ["generate"],
+  "description": "Generate the name of a product.",
+  "file": "product-generate-title.txt"
+}

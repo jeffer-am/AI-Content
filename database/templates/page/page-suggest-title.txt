@@ -1,0 +1,5 @@
+Generate "{{count}}" SEO friendly page titles for a website page.
+
+Current Page Title: "{{post_title}}"
+Current Page Content:
+{{post_content}}

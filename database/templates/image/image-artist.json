@@ -1,0 +1,38 @@
+{
+  "slug": "image-artist",
+  "name": "Artist",
+  "category": "Image",
+  "type": "image",
+  "capabilities": ["generate"],
+  "description": "An image of an artist",
+  "prompt": "in the style of {{option}}",
+  "option": {
+    "name": "Artist",
+    "values": [
+      "Leonardo da Vinci",
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Claude Monet",
+      "Rembrandt",
+      "Michelangelo",
+      "Raphael",
+      "Edgar Degas",
+      "Paul Cézanne",
+      "Auguste Renoir",
+      "Paul Gauguin",
+      "Gustav Klimt",
+      "Henri Matisse",
+      "Caravaggio",
+      "Jackson Pollock",
+      "Andy Warhol",
+      "Edvard Munch",
+      "Salvador Dalí",
+      "Georges Seurat",
+      "Francisco Goya",
+      "Johannes Vermeer",
+      "Marc Chagall",
+      "Peter Paul Rubens",
+      "Edouard Manet"
+    ]
+  }
+}

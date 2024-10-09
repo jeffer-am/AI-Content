@@ -1,0 +1,9 @@
+{
+  "slug": "post-generate-excerpt",
+  "name": "Generate Post Excerpt",
+  "category": "Post",
+  "type": "system",
+  "capabilities": ["generate"],
+  "description": "Generate the excerpt of a post.",
+  "file": "post-generate-excerpt.txt"
+}

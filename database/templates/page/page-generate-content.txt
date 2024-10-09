@@ -1,0 +1,7 @@
+Write a SEO friendly page content about "{{title}}".
+The page content is organized by the following headings:
+
+{{subheadings}}
+
+Write "{{paragraph_count}}" paragraphs per heading.
+Add an introduction, and a conclusion. Don't write "introduction" and "conclusion" headings.

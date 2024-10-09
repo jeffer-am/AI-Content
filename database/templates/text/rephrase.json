@@ -1,0 +1,9 @@
+{
+  "slug": "rephrase",
+  "name": "Rephrase",
+  "category": "Text Rephrasing",
+  "type": "text",
+  "capabilities": ["modify"],
+  "description": "Rephrase your text",
+  "prompt": "Rephrase text"
+}

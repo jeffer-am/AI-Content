@@ -1,0 +1,38 @@
+{
+  "slug": "image-style",
+  "name": "Style",
+  "category": "Image",
+  "type": "image",
+  "capabilities": [
+    "generate"
+  ],
+  "description": "The style of the image",
+  "prompt": "With {{option}} style",
+  "option": {
+    "name": "Style",
+    "values": [
+      "Abstract",
+      "Realistic",
+      "Impressionistic",
+      "Expressionistic",
+      "Cubist",
+      "Fauvist",
+      "Surrealist",
+      "Pop Art",
+      "Minimalist",
+      "Postmodern",
+      "Contemporary",
+      "Modern",
+      "Traditional",
+      "Classical",
+      "Romantic",
+      "Baroque",
+      "Rococo",
+      "Gothic",
+      "Medieval",
+      "Renaissance",
+      "Ancient",
+      "Prehistoric"
+    ]
+  }
+}

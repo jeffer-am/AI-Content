@@ -1,0 +1,3 @@
+My website title is "{{site_title}}".
+The language of the content of my website is "{{site_language}}".
+The URL of my website is "{{site_url}}".

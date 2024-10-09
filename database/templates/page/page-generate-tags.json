@@ -1,0 +1,9 @@
+{
+  "slug": "page-generate-tags",
+  "name": "Generate Page Tags",
+  "category": "Page",
+  "type": "system",
+  "capabilities": ["generate"],
+  "description": "Generate the tags of a page.",
+  "file": "page-generate-tags.txt"
+}

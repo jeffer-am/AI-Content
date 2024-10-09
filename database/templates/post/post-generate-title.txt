@@ -1,0 +1,1 @@
+Write a SEO friendly title for an article about "{{topic}}".

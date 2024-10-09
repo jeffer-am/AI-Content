@@ -1,0 +1,9 @@
+{
+  "slug": "page-generate-excerpt",
+  "name": "Generate Page Excerpt",
+  "category": "Page",
+  "type": "system",
+  "capabilities": ["generate"],
+  "description": "Generate the excerpt of a page.",
+  "file": "page-generate-excerpt.txt"
+}

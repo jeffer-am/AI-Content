@@ -1,0 +1,26 @@
+{
+  "slug": "image-photographer",
+  "name": "Photographer",
+  "category": "Image",
+  "type": "image",
+  "capabilities": ["generate"],
+  "description": "Set of images of famous photographers",
+  "prompt": "in the style of {{option}}",
+  "option": {
+    "name": "Photographer",
+    "values": [
+      "Diane Arbus",
+      "Richard Avedon",
+      "Robert Capa",
+      "Henri Cartier-Bresson",
+      "Robert Doisneau",
+      "Walker Evans",
+      "Andreas Feininger",
+      "Robert Frank",
+      "Nan Goldin",
+      "Philippe Halsman",
+      "Lewis Hine",
+      "Annie Leibovitz"
+    ]
+  }
+}

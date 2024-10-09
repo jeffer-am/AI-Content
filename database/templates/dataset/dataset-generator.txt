@@ -1,0 +1,4 @@
+Generate 10 questions and answers for this content.
+
+Title: {{post_title}}
+Content: {{post_content}}

@@ -1,0 +1,9 @@
+{
+  "slug": "post-generate-title",
+  "name": "Generate Post Title",
+  "category": "Post",
+  "type": "system",
+  "capabilities": ["generate"],
+  "description": "Generate the title of a post.",
+  "file": "post-generate-title.txt"
+}

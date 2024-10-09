@@ -1,0 +1,9 @@
+{
+  "slug": "page-suggest-content",
+  "name": "Suggest Page Content",
+  "category": "Page",
+  "type": "system",
+  "capabilities": ["modify"],
+  "description": "Suggest the content of a page.",
+  "file": "page-suggest-content.txt"
+}

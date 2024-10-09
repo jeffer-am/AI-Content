@@ -1,0 +1,6 @@
+Generate "{{count}}" SEO friendly titles for an article.
+The titles should be related to the current content of the article.
+
+Current Article Title: "{{post_title}}"
+Current Article Content:
+{{post_content}}

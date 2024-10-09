@@ -1,0 +1,2 @@
+Write "{{subheading_count}}" SEO friendly consecutive subheadings for an article about "{{title}}".
+Strictly do not use the same subheading more than once.

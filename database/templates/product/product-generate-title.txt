@@ -1,0 +1,1 @@
+Write a name (title) for a e-commerce product about "{{topic}}".

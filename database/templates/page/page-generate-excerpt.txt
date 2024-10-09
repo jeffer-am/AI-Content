@@ -1,0 +1,7 @@
+Write a SEO friendly excerpt (meta description) for a page.
+The excerpt should be related to the title and subheadings of the page.
+Must be between 90 and 120 characters.
+
+Page Title: "{{title}}"
+Page Subheadings:
+{{subheadings}}

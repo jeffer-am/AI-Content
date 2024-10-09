@@ -1,0 +1,9 @@
+{
+  "slug": "wc-product-generate-excerpt",
+  "name": "Generate Product Short Description",
+  "category": "Woocommerce Product",
+  "type": "system",
+  "capabilities": ["generate"],
+  "description": "Generate the short description of a product.",
+  "file": "product-generate-excerpt.txt"
+}

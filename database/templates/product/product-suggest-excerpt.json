@@ -1,0 +1,9 @@
+{
+  "slug": "wc-product-suggest-excerpt",
+  "name": "Suggest Product Short Description",
+  "category": "Woocommerce Product",
+  "type": "system",
+  "capabilities": ["modify"],
+  "description": "Suggest the short description of a product.",
+  "file": "product-suggest-excerpt.txt"
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "post-suggest-content",
+  "name": "Suggest Post Content",
+  "category": "Post",
+  "type": "system",
+  "capabilities": ["modify"],
+  "description": "Suggest the content of a post.",
+  "file": "post-suggest-content.txt"
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "page-generate-title",
+  "name": "Generate Page Title",
+  "category": "Page",
+  "type": "system",
+  "capabilities": ["generate"],
+  "description": "Generate the title of a page.",
+  "file": "page-generate-title.txt"
+}

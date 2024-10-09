@@ -1,0 +1,9 @@
+{
+  "slug": "text-block",
+  "name": "Text Block",
+  "category": "General",
+  "type": "system",
+  "capabilities": ["generate", "modify"],
+  "description": "The prompt of the Text block.",
+  "file": "text-block.txt"
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "expand",
+  "name": "Expand",
+  "category": "Text Length",
+  "type": "text",
+  "capabilities": ["modify"],
+  "description": "Expand your text",
+  "prompt": "Expand text"
+}

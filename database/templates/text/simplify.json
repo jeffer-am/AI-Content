@@ -1,0 +1,9 @@
+{
+  "slug": "simplify",
+  "name": "Simplify",
+  "category": "Text Rephrasing",
+  "type": "text",
+  "capabilities": ["modify"],
+  "description": "Simplify your text",
+  "prompt": "Simplify text"
+}

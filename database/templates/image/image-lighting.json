@@ -1,0 +1,24 @@
+{
+  "slug": "image-lighting",
+  "name": "Lighting",
+  "category": "Image",
+  "type": "image",
+  "capabilities": ["generate"],
+  "description": "Set the lighting of the image",
+  "prompt": "{{option}} lighting",
+  "option": {
+    "name": "Lighting",
+    "values": [
+      "Neon",
+      "Fluorescent",
+      "Tungsten",
+      "Daylight",
+      "Cloudy Daylight",
+      "Shade",
+      "Twilight",
+      "Warm Fluorescent",
+      "Incandescent",
+      "Flash"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "global-text",
+  "name": "Global System Prompt",
+  "category": "General",
+  "type": "system",
+  "capabilities": ["generate", "modify"],
+  "description": "Global System Prompt for all text generations, modifications.",
+  "file": "global-text.txt"
+}

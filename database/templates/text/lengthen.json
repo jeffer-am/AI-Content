@@ -1,0 +1,9 @@
+{
+  "slug": "lengthen",
+  "name": "Lengthen",
+  "category": "Text Length",
+  "type": "text",
+  "capabilities": ["modify"],
+  "description": "Lengthen your text",
+  "prompt": "Lengthen text"
+}

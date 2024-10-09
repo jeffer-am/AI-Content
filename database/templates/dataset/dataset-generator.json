@@ -1,0 +1,9 @@
+{
+  "slug": "dataset-generator",
+  "name": "Dataset Generator Prompt",
+  "category": "General",
+  "type": "system",
+  "capabilities": ["generate"],
+  "description": "Generate a dataset of posts, pages or other post types and contents.",
+  "file": "dataset-generator.txt"
+}

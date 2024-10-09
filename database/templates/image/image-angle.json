@@ -1,0 +1,38 @@
+{
+  "slug": "image-angle",
+  "name": "Angle",
+  "category": "Image",
+  "type": "image",
+  "capabilities": [
+    "generate"
+  ],
+  "description": "The angle from which the image was taken.",
+  "prompt": "Angle: {{option}}",
+  "option": {
+    "name": "Angle",
+    "values": [
+      "Close-Up",
+      "Isometric",
+      "Low Angle",
+      "High Angle",
+      "Eye Level",
+      "Bird's Eye View",
+      "Worm's Eye View",
+      "Frog's Eye View",
+      "Frontal",
+      "Profile",
+      "Three-Quarter",
+      "Overhead",
+      "Straight Down",
+      "Oblique",
+      "Dutch Angle",
+      "Canted Angle",
+      "Tilted Angle",
+      "Slanted Angle",
+      "Sloping Angle",
+      "Wide Angle",
+      "Zoom Angle",
+      "Medium Shot"
+    ]
+  }
+}

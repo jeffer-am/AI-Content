@@ -1,0 +1,9 @@
+{
+  "slug": "post-generate-subheadings",
+  "name": "Generate Post Subheadings",
+  "category": "Post",
+  "type": "system",
+  "capabilities": ["generate"],
+  "description": "Generate the subheadings of a post content.",
+  "file": "post-generate-subheadings.txt"
+}

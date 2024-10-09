@@ -1,0 +1,7 @@
+Generate "{{tag_count}}" keywords for a page.
+The keywords should be related to the title, subheadings and the excerpt of the page. 
+
+Page Title: "{{title}}"
+Page Excerpt: "{{excerpt}}"
+Page Subheadings:
+{{subheadings}}

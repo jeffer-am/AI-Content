@@ -1,0 +1,4 @@
+Write a SEO friendly page content about "{{post_title}}".
+
+The current page content:
+{{post_content}}

@@ -1,0 +1,9 @@
+{
+  "slug": "post-suggest-title",
+  "name": "Suggest Post Title",
+  "category": "Post",
+  "type": "system",
+  "capabilities": ["modify"],
+  "description": "Suggest the title of a post.",
+  "file": "post-suggest-title.txt"
+}

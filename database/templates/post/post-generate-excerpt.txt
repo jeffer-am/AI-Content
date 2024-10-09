@@ -1,0 +1,7 @@
+Write a SEO friendly excerpt (meta description) for an article.
+The excerpt should be related to the title and subheadings of the article.
+Must be between 90 and 120 characters.
+
+Article Title: "{{title}}"
+Article Subheadings:
+{{subheadings}}

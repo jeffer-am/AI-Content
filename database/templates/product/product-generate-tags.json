@@ -1,0 +1,9 @@
+{
+  "slug": "wc-product-generate-tags",
+  "name": "Generate Product Tags",
+  "category": "Woocommerce Product",
+  "type": "system",
+  "capabilities": ["generate"],
+  "description": "Generate the tags of a product.",
+  "file": "product-generate-tags.txt"
+}

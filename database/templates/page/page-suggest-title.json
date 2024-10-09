@@ -1,0 +1,9 @@
+{
+  "slug": "page-suggest-title",
+  "name": "Suggest Page Title",
+  "category": "Page",
+  "type": "system",
+  "capabilities": ["modify"],
+  "description": "Suggest the title of a page.",
+  "file": "page-suggest-title.txt"
+}

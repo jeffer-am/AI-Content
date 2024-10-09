@@ -1,0 +1,9 @@
+{
+  "slug": "wc-product-suggest-tags",
+  "name": "Suggest Product Tags",
+  "category": "Woocommerce Product",
+  "type": "system",
+  "capabilities": ["modify"],
+  "description": "Suggest the tags of a product.",
+  "file": "product-suggest-tags.txt"
+}

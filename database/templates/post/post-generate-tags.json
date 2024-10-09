@@ -1,0 +1,9 @@
+{
+  "slug": "post-generate-tags",
+  "name": "Generate Post Tags",
+  "category": "Post",
+  "type": "system",
+  "capabilities": ["generate"],
+  "description": "Generate the tags of a post.",
+  "file": "post-generate-tags.txt"
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "wc-product-generate-subheadings",
+  "name": "Generate Product Description Subheadings",
+  "category": "Woocommerce Product",
+  "type": "system",
+  "capabilities": ["generate"],
+  "description": "Generate the subheadings of a product description.",
+  "file": "product-generate-subheadings.txt"
+}

@@ -1,0 +1,7 @@
+{
+  "slug": "dataset-generator",
+  "name": "Dataset Generator",
+  "description": "Generate a dataset based on posts.",
+  "hidden": true,
+  "file": "dataset-generator.jsonl"
+}

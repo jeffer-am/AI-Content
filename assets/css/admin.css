@@ -1,0 +1,201 @@
+#toplevel_page_aimuse a .wp-menu-image img {
+  margin-top: -2px;
+}
+
+body.toplevel_page_aimuse {
+  background: #ededed !important;
+}
+
+body.toplevel_page_aimuse.yarl__no_scroll {
+  overflow-y: hidden;
+}
+
+@property --spinturn {
+  syntax: "<angle>";
+  inherits: true;
+  initial-value: 0turn;
+}
+
+body.woocommerce-admin-page #wp-excerpt-media-buttons {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.musePostToolBtn {
+  display: -webkit-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  gap: 2px;
+  font-weight: 500;
+  margin-right: 7px !important;
+}
+
+.musePostToolBtn img {
+  padding: 0;
+  vertical-align: middle;
+}
+
+.musePostToolBtn.justifyStart {
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+}
+
+.museRowToolBtnArea {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  vertical-align: middle;
+  position: relative;
+}
+
+.museRowToolBtn {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  vertical-align: middle;
+  gap: 0.2rem;
+  font-weight: 500;
+  -moz-appearance: none;
+  appearance: none;
+  border-radius: 3px;
+  white-space: nowrap;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  font-size: 13px;
+  cursor: pointer;
+  color: #2271b1;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #2271b1;
+  background-color: transparent;
+  margin: 0;
+  padding: 3px 6px;
+  width: auto;
+  line-height: normal;
+  -webkit-font-smoothing: inherit;
+  -moz-osx-font-smoothing: inherit;
+  -webkit-appearance: none;
+}
+
+.museRowToolBtn:not(:disabled):hover {
+  background-color: #ffffff;
+  transition: background-color 0.2s ease;
+}
+
+.museRowToolBtn:disabled,
+.musePostToolBtn:disabled {
+  background-color: #e9ecef;
+  border-color: #c5c5c5;
+  color: #868e96;
+  cursor: not-allowed !important;
+}
+
+body.woocommerce-admin-page #titlewrap:has(.musePostToolBtn) {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+body.woocommerce-admin-page #titlewrap div:has(.musePostToolBtn) {
+  padding-bottom: 3px;
+}
+
+body.woocommerce-admin-page #titlewrap .musePostToolBtn {
+  gap: 4px;
+  height: 100%;
+  margin: 0 !important;
+}
+
+@media screen and (max-width: 782px) {
+  body.woocommerce-admin-page #titlewrap div:has(.musePostToolBtn) {
+    padding-bottom: 0;
+    height: 100%;
+  }
+
+  body.woocommerce-admin-page #titlewrap .musePostToolBtn span {
+    display: none;
+  }
+}
+
+.musePremiumRibbon {
+  position: absolute !important;
+  z-index: 1000;
+}
+
+.musePremiumRibbon.right {
+  right: 0;
+}
+
+.musePremiumRibbon.left {
+  left: 0;
+}
+
+.musePremiumRibbon.top {
+  top: 0;
+}
+
+.musePremiumRibbon.bottom {
+  bottom: 0;
+}
+
+.musePremiumActionBtn {
+  cursor: pointer;
+  padding: 0;
+  -webkit-appearance: none;
+  appearance: none;
+  font-size: calc(1rem * 1);
+  text-align: left;
+  text-decoration: none;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+  line-height: 1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  -webkit-user-select: none;
+  user-select: none;
+  overflow: hidden;
+  width: calc(1.375rem * 1);
+  height: calc(1.375rem * 1);
+  min-width: calc(1.375rem * 1);
+  min-height: calc(1.375rem * 1);
+  border-radius: calc(0.25rem * 1);
+  background: transparent;
+  color: #12b886;
+  border: calc(0.0625rem * 1) solid transparent;
+  box-sizing: border-box;
+  font: inherit;
+  text-transform: none;
+}
+
+.musePremiumActionBtn:hover {
+  background-color: rgba(18, 184, 134, 0.12);
+  color: #12b886;
+  scale: 1.15;
+  transition: background-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
+}

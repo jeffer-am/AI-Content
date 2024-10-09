@@ -1,0 +1,7 @@
+Generate "{{count}}" SEO friendly excerpt (meta description) for an article.
+The excerpt should be related to the current title and current content of the article.
+Must be between 90 and 120 characters.
+
+Current Article Title: "{{post_title}}"
+Current Article Content:
+{{post_content}},

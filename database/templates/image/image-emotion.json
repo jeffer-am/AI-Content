@@ -1,0 +1,32 @@
+{
+  "slug": "image-emotion",
+  "name": "Emotion",
+  "category": "Image",
+  "type": "image",
+  "capabilities": ["generate"],
+  "description": "Set the emotion of the image",
+  "prompt": "{{option}}",
+  "option": {
+    "name": "Emotion",
+    "values": [
+      "Happy",
+      "Sad",
+      "Angry",
+      "Surprised",
+      "Scared",
+      "Disgusted",
+      "Neutral",
+      "Confused",
+      "Excited",
+      "Bored",
+      "Tired",
+      "Calm",
+      "In Love",
+      "Anxious",
+      "Stressed",
+      "Lonely",
+      "Hopeful",
+      "Proud"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "summarize-text",
+  "name": "Summarize",
+  "category": "Text Rephrasing",
+  "type": "text",
+  "capabilities": [
+    "modify"
+  ],
+  "description": "Summarize text using the AI",
+  "prompt": "Summarize text"
+}

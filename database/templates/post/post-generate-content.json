@@ -1,0 +1,9 @@
+{
+  "slug": "post-generate-content",
+  "name": "Generate Post Content",
+  "category": "Post",
+  "type": "system",
+  "capabilities": ["generate"],
+  "description": "Generate the content of a post.",
+  "file": "post-generate-content.txt"
+}

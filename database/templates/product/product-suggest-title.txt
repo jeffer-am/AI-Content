@@ -1,0 +1,6 @@
+Generate "{{count}}" SEO friendly e-commerce product names (titles).
+Product names related to current product description and product name (title).
+
+Current Product Name (Title): "{{product_name}}"
+Current Product Description:
+{{product_description}}

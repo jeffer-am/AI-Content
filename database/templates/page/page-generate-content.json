@@ -1,0 +1,9 @@
+{
+  "slug": "page-generate-content",
+  "name": "Generate Page Content",
+  "category": "Page",
+  "type": "system",
+  "capabilities": ["generate"],
+  "description": "Generate the content of a page.",
+  "file": "page-generate-content.txt"
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "shorten",
+  "name": "Shorten",
+  "category": "Text Length",
+  "type": "text",
+  "capabilities": ["modify"],
+  "description": "Shorten your text",
+  "prompt": "Shorten text"
+}

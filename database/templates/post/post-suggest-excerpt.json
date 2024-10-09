@@ -1,0 +1,9 @@
+{
+  "slug": "post-suggest-excerpt",
+  "name": "Suggest Post Excerpt",
+  "category": "Post",
+  "type": "system",
+  "capabilities": ["modify"],
+  "description": "Suggest the excerpt of a post.",
+  "file": "post-suggest-excerpt.txt"
+}

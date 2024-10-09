@@ -1,0 +1,7 @@
+Generate "{{tag_count}}" keywords for an article.
+The keywords should be related to the title, subheadings and the excerpt of the article. 
+
+Article Title: "{{title}}"
+Article Excerpt: "{{excerpt}}"
+Article Subheadings:
+{{subheadings}}

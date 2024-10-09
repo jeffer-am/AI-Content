@@ -1,0 +1,9 @@
+{
+  "slug": "post-suggest-tags",
+  "name": "Suggest Post Tags",
+  "category": "Post",
+  "type": "system",
+  "capabilities": ["modify"],
+  "description": "Suggest the tags of a post.",
+  "file": "post-suggest-tags.txt"
+}

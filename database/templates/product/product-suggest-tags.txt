@@ -1,0 +1,6 @@
+Generate "{{count}}" keywords for an e-commerce product.
+The keywords should be related to the name and the description of the product. 
+
+Product Name: "{{product_name}}"
+Product Description:
+{{product_description}}

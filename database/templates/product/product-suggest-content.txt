@@ -1,0 +1,4 @@
+Write a SEO friendly e-commerce product description about "{{product_name}}".
+
+The current product description:
+{{product_description}}

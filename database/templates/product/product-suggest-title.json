@@ -1,0 +1,9 @@
+{
+  "slug": "wc-product-suggest-title",
+  "name": "Suggest Product Name",
+  "category": "Woocommerce Product",
+  "type": "system",
+  "capabilities": ["modify"],
+  "description": "Suggest the name of a product.",
+  "file": "product-suggest-title.txt"
+}

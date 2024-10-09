@@ -1,0 +1,9 @@
+{
+  "slug": "page-generate-subheadings",
+  "name": "Generate Page Subheadings",
+  "category": "Page",
+  "type": "system",
+  "capabilities": ["generate"],
+  "description": "Generate the subheadings of a page content.",
+  "file": "page-generate-subheadings.txt"
+}

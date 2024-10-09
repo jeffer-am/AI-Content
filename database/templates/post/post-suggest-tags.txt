@@ -1,0 +1,6 @@
+Generate "{{count}}" keywords for an article.
+The keywords should be related to the article title and the content of the article. 
+
+Current Article Title: "{{post_title}}"
+Current Article Content:
+{{post_content}}

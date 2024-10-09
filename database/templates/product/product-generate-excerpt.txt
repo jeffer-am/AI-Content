@@ -1,0 +1,7 @@
+Write an SEO friendly excerpt (meta description) for a e-commerce product.
+The excerpt should be related to the title and subheadings of the product.
+Must be between 90 and 120 characters.
+
+Product Title: "{{title}}"
+Product Subheadings:
+{{subheadings}}

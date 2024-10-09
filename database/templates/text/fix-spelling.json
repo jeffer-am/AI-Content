@@ -1,0 +1,9 @@
+{
+  "slug": "fix-spelling",
+  "name": "Fix Spelling & Grammar",
+  "category": "Text Rephrasing",
+  "type": "text",
+  "capabilities": ["modify"],
+  "description": "Fix spelling and grammar mistakes in your text.",
+  "prompt": "Fix spelling and grammar mistakes"
+}
